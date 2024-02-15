@@ -32,7 +32,7 @@ Magnion is a simple yet elegant landing page designed to showcase a product or s
 - JavaScript: Adds interactivity and functionality to the web page.
 
 ## View
--such copy abd paste the link into web browser https://saransandilyan.github.io/Magnion/
+-clone the github link and run using vscode
 
 
 
